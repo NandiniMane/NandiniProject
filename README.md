@@ -24,6 +24,7 @@ public static void function(String fileName)
 	    driver.get(baseUrl);
 	    driver.manage().window().maximize(); 
 	    System.out.println("Success");
+	    System.out.println("Branch creation successfull");
 }
 }
 
